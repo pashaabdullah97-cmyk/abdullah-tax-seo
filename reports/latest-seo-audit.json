@@ -1,0 +1,61 @@
+{
+  "generatedAt": "2026-11-21T20:54:22.851Z",
+  "siteAudit": {
+    "url": "https://abdullahtax.com",
+    "date": "2026-11-21",
+    "mobilePerformanceScore": null,
+    "mobileSeoScore": 100,
+    "fcp": "N/A",
+    "lcp": "N/A"
+  },
+  "targetTopic": {
+    "jurisdiction": "USA",
+    "serviceUrl": "https://abdullahtax.com/business-tax",
+    "keyword": "Form 1065 partnership tax return and K-2 K-3 international schedules",
+    "searchQuery": "Form 1065 partnership tax return Schedule K-1 K-2 K-3 requirements",
+    "audience": "Multi-member US LLCs and partnerships",
+    "dateIso": "2026-11-21",
+    "targetDomain": "https://abdullahtax.com"
+  },
+  "topCompetitors": [
+    {
+      "rank": 1,
+      "title": "Form 1065, Schedules K-2 and K-3 filing requirements",
+      "link": "https://www.irs.gov/businesses/small-businesses-self-employed/form-1065-schedules-k-2-and-k-3-filing-requirements",
+      "snippet": "Schedules K-2 and K-3 are required to be completed only for the parts and sections relevant to the requesting partner. For example, if a partner ..."
+    },
+    {
+      "rank": 2,
+      "title": "Partnership Instructions for Schedules K-2 and K-3 (Form 1065)",
+      "link": "https://www.irs.gov/instructions/i1065s23",
+      "snippet": "... Schedule K-1, if the partnership meets the following four conditions. The partnership's total receipts for the tax year were less than $250,000. The ..."
+    },
+    {
+      "rank": 3,
+      "title": "About Form 1065, U.S. Return of Partnership Income",
+      "link": "https://www.irs.gov/forms-pubs/about-form-1065",
+      "snippet": "Information about Form 1065, U.S. Return of Partnership Income, including recent updates, related forms and instructions on how to file."
+    },
+    {
+      "rank": 4,
+      "title": "Form 1065 - Schedule K-2 and K-3 Guide 2025, one month date rules",
+      "link": "https://accountably.com/irs-forms/f1065sk2/",
+      "snippet": "Schedule K-2 reports the partnership's international items at the entity level across 12 Parts, and Schedule K-3 furnishes each partner's share."
+    },
+    {
+      "rank": 5,
+      "title": "Form 1065: Partnership Tax Return - TurboTax Tax Tips & Videos - Intuit",
+      "link": "https://turbotax.intuit.com/tax-tips/irs-tax-forms/what-is-form-1065/L5UpOREHb",
+      "snippet": "Partnerships use this form to prepare Schedule K-1s for each partner to pass through all income and deductions to owners. Who is required to ..."
+    }
+  ],
+  "peopleAlsoAsk": [],
+  "relatedKeywords": [
+    "Printable form 1065 partnership tax return schedule k 1 k 2 k 3 requirements",
+    "Form 1065, Schedule K-2",
+    "Form 1065 Schedule K-2 pdf",
+    "Form 1065, Schedule K-2, instructions pdf",
+    "Partnership Instructions for Schedules K-2 and K-3 (Form 1065)"
+  ],
+  "publishedPostPath": "posts/form-1065-partnership-tax-return-and-k-2-k-3-international-schedules.md"
+}
