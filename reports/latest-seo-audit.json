@@ -1,66 +1,24 @@
 {
-  "generatedAt": "2026-11-21T21:30:49.681Z",
+  "generatedAt": "2026-11-23T09:02:30.822Z",
   "siteAudit": {
     "url": "https://abdullahtax.com",
-    "date": "2026-11-21",
+    "date": "2026-11-23",
     "mobilePerformanceScore": null,
-    "mobileSeoScore": 100,
+    "mobileSeoScore": null,
     "fcp": "N/A",
     "lcp": "N/A"
   },
   "targetTopic": {
-    "jurisdiction": "USA",
-    "serviceUrl": "https://abdullahtax.com/business-tax",
-    "keyword": "Form 1065 partnership tax return and K-2 K-3 international schedules",
-    "searchQuery": "Form 1065 partnership tax return Schedule K-1 K-2 K-3 requirements",
-    "audience": "Multi-member US LLCs and partnerships",
-    "dateIso": "2026-11-21",
+    "jurisdiction": "New Zealand",
+    "serviceUrl": "https://abdullahtax.com/",
+    "keyword": "New Zealand IRD IR3 and IR4 income tax and GST filing guide",
+    "searchQuery": "New Zealand IRD IR3 IR4 income tax return GST filing rules",
+    "audience": "New Zealand individuals, contractors, and companies",
+    "dateIso": "2026-11-23",
     "targetDomain": "https://abdullahtax.com"
   },
-  "topCompetitors": [
-    {
-      "rank": 1,
-      "title": "About Form 1065, U.S. Return of Partnership Income",
-      "link": "https://www.irs.gov/forms-pubs/about-form-1065",
-      "snippet": "Information about Form 1065, U.S. Return of Partnership Income, including recent updates, related forms and instructions on how to file."
-    },
-    {
-      "rank": 2,
-      "title": "2025 Instructions for Form 1065",
-      "link": "https://www.irs.gov/pub/irs-pdf/i1065.pdf",
-      "snippet": "Schedules K and K-1, line 20, code AR. Line 20, code AR, has been updated to notify partnerships that an employee identification number (EIN) will be required ..."
-    },
-    {
-      "rank": 3,
-      "title": "Form 1065: Partnership Tax Return - TurboTax Tax Tips & Videos - Intuit",
-      "link": "https://turbotax.intuit.com/tax-tips/irs-tax-forms/what-is-form-1065/L5UpOREHb",
-      "snippet": "Form 1065 to prepare Schedule K-1s (and Schedule K-3s, if needed) to pass through income and losses to partners. Form 1065 is due by the 15th ..."
-    },
-    {
-      "rank": 4,
-      "title": "2024 Partnership Instructions for Schedules K-2 and K-3 (Form 1065)",
-      "link": "https://www.reginfo.gov/public/do/DownloadDocument?objectID=148266901",
-      "snippet": "The penalties that apply to Form 1065 and Schedule K-1 apply to. Schedules K-2 and K-3, respectively. See Penalties in the. Instructions for ..."
-    },
-    {
-      "rank": 5,
-      "title": "Form 1065, Schedules K-2 and K-3 filing requirements",
-      "link": "https://www.irs.gov/businesses/small-businesses-self-employed/form-1065-schedules-k-2-and-k-3-filing-requirements",
-      "snippet": "Schedules K-2 and K-3 are required to be completed only for the parts and sections relevant to the requesting partner."
-    }
-  ],
-  "peopleAlsoAsk": [
-    "Who is required to file K-2 and K-3?",
-    "What is the difference between schedule K-2 and K-3?",
-    "Do I need to file Schedule K-1 with form 1065?",
-    "What is the purpose of schedule K-2 form 1065?"
-  ],
-  "relatedKeywords": [
-    "Download form 1065 partnership tax return schedule k 1 k 2 k 3 requirements",
-    "Form 1065, Schedule K-2",
-    "Form 1065 Schedule K-2 pdf",
-    "2025 Form 1065 Schedule K-1",
-    "Partnership Instructions for Schedules K-2 and K-3 (Form 1065)"
-  ],
-  "publishedPostPath": "posts/form-1065-and-k-2-k-3-tax-guide.md"
+  "topCompetitors": [],
+  "peopleAlsoAsk": [],
+  "relatedKeywords": [],
+  "publishedPostPath": "posts/new-zealand-ird-ir3-and-ir4-income-tax-and-gst-filing-guide.md"
 }
