@@ -1,24 +1,66 @@
 {
-  "generatedAt": "2026-11-23T09:02:30.822Z",
+  "generatedAt": "2026-11-24T10:41:21.841Z",
   "siteAudit": {
     "url": "https://abdullahtax.com",
-    "date": "2026-11-23",
+    "date": "2026-11-24",
     "mobilePerformanceScore": null,
-    "mobileSeoScore": null,
+    "mobileSeoScore": 100,
     "fcp": "N/A",
     "lcp": "N/A"
   },
   "targetTopic": {
-    "jurisdiction": "New Zealand",
-    "serviceUrl": "https://abdullahtax.com/",
-    "keyword": "New Zealand IRD IR3 and IR4 income tax and GST filing guide",
-    "searchQuery": "New Zealand IRD IR3 IR4 income tax return GST filing rules",
-    "audience": "New Zealand individuals, contractors, and companies",
-    "dateIso": "2026-11-23",
+    "jurisdiction": "Global Bookkeeping",
+    "serviceUrl": "https://abdullahtax.com/resources",
+    "keyword": "QuickBooks Online and Xero catch-up bookkeeping for Stripe Payoneer Wise",
+    "searchQuery": "QuickBooks Online Xero catch up bookkeeping Stripe Payoneer Wise reconciliation",
+    "audience": "E-commerce and remote businesses needing audit-ready books",
+    "dateIso": "2026-11-24",
     "targetDomain": "https://abdullahtax.com"
   },
-  "topCompetitors": [],
-  "peopleAlsoAsk": [],
-  "relatedKeywords": [],
-  "publishedPostPath": "posts/new-zealand-ird-ir3-and-ir4-income-tax-and-gst-filing-guide.md"
+  "topCompetitors": [
+    {
+      "rank": 1,
+      "title": "bookkeeping software that feels less painful for reconciliation cleanup ...",
+      "link": "https://www.reddit.com/r/Bookkeeping/comments/1t9rgse/bookkeeping_software_that_feels_less_painful_for/",
+      "snippet": "Lately I’ve been getting more clients who fell behind on bookkeeping and I’m spending a ton of time tracking down missing transactions and correcting ..."
+    },
+    {
+      "rank": 2,
+      "title": "Accounting software integrations",
+      "link": "https://docs.stripe.com/stripe-apps/embedded-apps/accounting-integrations",
+      "snippet": "Stripe provides integrations to Quickbooks Online and Xero accounting software through Connect embedded components for Stripe Apps built by 3rd party developers ..."
+    },
+    {
+      "rank": 3,
+      "title": "How to automate reconciliation",
+      "link": "https://melio.com/blog/how-to-automate-reconciliation-between-your-accounting-software-and-payment-platform/",
+      "snippet": "Learn how to automate reconciliation by syncing your payment platform with QuickBooks or Xero, so your books match without manual entry."
+    },
+    {
+      "rank": 4,
+      "title": "How to Catch Up Bookkeeping Quickly STEP-BY-STEP [Xero vs. ...",
+      "link": "https://www.youtube.com/watch?v=eVS3kneTSWM",
+      "snippet": "In this video, we break down and simplify the exact steps to get your accounting records updated quickly. Steps to get bookkeeping caught up ..."
+    },
+    {
+      "rank": 5,
+      "title": "The Accounting Software with the Best Invoicing Tools",
+      "link": "https://www.xero.com/us/explore/best-invoicing-software/",
+      "snippet": "Many users find Xero simpler than QuickBooks Online, Xero's ecosystem is 10 times larger, with bank reconciliation on every plan and no hidden fees."
+    }
+  ],
+  "peopleAlsoAsk": [
+    "What is the most used bookkeeping software?",
+    "Does QuickBooks integrate with Stripe?",
+    "How to resolve a discrepancy in cash reconciliation?",
+    "What are three types of accounts that can be linked to QuickBooks Online?"
+  ],
+  "relatedKeywords": [
+    "Stripe Connector by QuickBooks",
+    "Stripe accounting integrations",
+    "Stripe accounting software",
+    "How to record Stripe payments in QuickBooks Online",
+    "Stripe login"
+  ],
+  "publishedPostPath": "posts/quickbooks-online-xero-quick-stripe-payoneer-wise-bookkeeping.md"
 }
