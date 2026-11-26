@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T07:56:38.742Z",
+  "generatedAt": "2026-11-26T09:03:21.672Z",
   "siteAudit": {
     "url": "https://abdullahtax.com",
     "date": "2026-11-26",
@@ -10,57 +10,51 @@
   },
   "targetTopic": {
     "jurisdiction": "USA",
-    "serviceUrl": "https://abdullahtax.com/business-tax",
-    "keyword": "US LLC Form 5472 and Form 1120 foreign owned filing guide",
-    "searchQuery": "US LLC Form 5472 Form 1120 foreign owned filing requirements penalties",
-    "audience": "Non-US founders with single-member US LLCs",
+    "serviceUrl": "https://abdullahtax.com/",
+    "keyword": "Form 1040-NR non-resident alien US tax return checklist",
+    "searchQuery": "Form 1040-NR non-resident alien US tax return filing checklist deadlines",
+    "audience": "Non-resident individuals with US source income",
     "dateIso": "2026-11-26",
     "targetDomain": "https://abdullahtax.com"
   },
   "topCompetitors": [
     {
       "rank": 1,
-      "title": "Instructions for Form 5472 (12/2024)",
-      "link": "https://www.irs.gov/instructions/i5472",
-      "snippet": "A penalty of $25,000 will be assessed on any reporting corporation that fails to file Form 5472 when due and in the manner prescribed."
+      "title": "1040NR-EZ Tax Return Guide | PDF | Finance & Money Management | Social Science",
+      "link": "https://www.scribd.com/doc/269454469/f1040nre",
+      "snippet": "This document is the Form 1040NR-EZ, which is the U.S. Income Tax Return for Certain Nonresident Aliens With No Dependents for tax year 2014."
     },
     {
       "rank": 2,
-      "title": "How to avoid penalties on Form 5472: A guide for foreign-owned US corporations",
-      "link": "https://www.taxesforexpats.com/articles/foreign-business/form-5472-penalty.html",
-      "snippet": "Form 5472 carries a $25,000 penalty per form per year for failure to file, failure to maintain required records, or filing a substantially ..."
+      "title": "I submitted my return but I need 1040-NR which is not provided. What will be the steps to obtain it? | Community - TurboTax Support",
+      "link": "https://ttlc.intuit.com/community/fid-7/tid-479659",
+      "snippet": "No text available"
     },
     {
       "rank": 3,
-      "title": "Tax Filing Requirements for Foreign-Owned Single Member US LLCs",
-      "link": "https://www.hcvt.com/alertarticle-Foreign-Owned-Single-Member-US-LLC-Tax-Requirement",
-      "snippet": "Penalties for Late Filing: If Form 5472 is not filed on time or is incomplete, the IRS may impose a $25,000 penalty per form. If the LLC has ..."
+      "title": "2022 - Filing a 1040NR for 2021 as a Non Resident Alien",
+      "link": "https://www.justbreve.com/post/2022-filing-a-1040nr-for-2021-as-a-non-resident-alien",
+      "snippet": "the normal deadline is April 15th 2022 for US based individuals but for non residents of the US, you have an additional 2 months to June 15th ..."
     },
     {
       "rank": 4,
-      "title": "Form 5472 Preparation Services | Foreign-Owned LLC & Corporation Filing",
-      "link": "https://www.sdocpa.com/form-5472-foreign-owned-business-filing/",
-      "snippet": "Form 5472: $25,000 per form for each year of non-compliance. No cap on total penalties. A foreign-owned LLC that hasn't filed for 3 years faces $75,000+ in ..."
+      "title": "1040-NR to 1040 filing timeline : r/tax",
+      "link": "https://www.reddit.com/r/tax/comments/16ym2lm/1040nr_to_1040_filing_timeline/",
+      "snippet": "1040-NR to 1040 filing timeline. This is to know whether I should file 1040 or 1040-NR for 2022 tax return. the deadline is October 16, 2023."
     },
     {
       "rank": 5,
-      "title": "Form 5472 For Foreign-Owned LLCs: Pro Forma 1120 & Penalty",
-      "link": "https://nexusworks.cpa/form-5472-foreign-owned-llc-penalty/",
-      "snippet": "Foreign-owned single-member LLCs may need to file Form 5472 with a pro forma 1120, even with no income. Learn the rules and $25000 penalty."
+      "title": "Form 1040-NR is the tax return you are supposed to file as an international student. Most ...",
+      "link": "https://www.instagram.com/reel/DXCueJbAAV1/",
+      "snippet": "File Form 8843 every year — even if you earned $0. Nonresident also means filing a 1040-NR, not a regular 1040, Taxed on worldwide income; ..."
     }
   ],
   "peopleAlsoAsk": [
-    "What is the penalty for not filing form 5472?",
-    "Does LLC need to file 5472?",
-    "What is the late filing penalty for form 1120?",
-    "What is the penalty for late filing my LLC taxes with the IRS?"
+    "What if ITR is not filed before 31st July?",
+    "What is a 1040?",
+    "What happens if I haven't paid US taxes as an US expat?",
+    "Does everyone get a $3,000 tax refund?"
   ],
-  "relatedKeywords": [
-    "Form 5472 instructions",
-    "Form 5472 PDF",
-    "Foreign-owned U.S. disregarded entity filing requirements",
-    "Penalty for not filing Form 5472",
-    "Form 5472 filing requirements"
-  ],
-  "publishedPostPath": "posts/us-llc-form-5472-and-form-1120-foreign-owned-filing-guide.md"
+  "relatedKeywords": [],
+  "publishedPostPath": "posts/form-1040-nr-non-resident-alien-taxes-guide.md"
 }
