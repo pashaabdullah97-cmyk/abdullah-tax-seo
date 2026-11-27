@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-26T09:03:21.672Z",
+  "generatedAt": "2026-11-27T07:39:47.485Z",
   "siteAudit": {
     "url": "https://abdullahtax.com",
-    "date": "2026-11-26",
+    "date": "2026-11-27",
     "mobilePerformanceScore": null,
     "mobileSeoScore": 100,
     "fcp": "N/A",
@@ -14,47 +14,53 @@
     "keyword": "Form 1040-NR non-resident alien US tax return checklist",
     "searchQuery": "Form 1040-NR non-resident alien US tax return filing checklist deadlines",
     "audience": "Non-resident individuals with US source income",
-    "dateIso": "2026-11-26",
+    "dateIso": "2026-11-27",
     "targetDomain": "https://abdullahtax.com"
   },
   "topCompetitors": [
     {
       "rank": 1,
-      "title": "1040NR-EZ Tax Return Guide | PDF | Finance & Money Management | Social Science",
-      "link": "https://www.scribd.com/doc/269454469/f1040nre",
-      "snippet": "This document is the Form 1040NR-EZ, which is the U.S. Income Tax Return for Certain Nonresident Aliens With No Dependents for tax year 2014."
+      "title": "Taxation of nonresident aliens | Internal Revenue Service",
+      "link": "https://www.irs.gov/individuals/international-taxpayers/taxation-of-nonresident-aliens",
+      "snippet": "For a person filing using a calendar year this is generally June 15. File Form 1040-NR at the address shown in the instructions for Form 1040-NR ..."
     },
     {
       "rank": 2,
-      "title": "I submitted my return but I need 1040-NR which is not provided. What will be the steps to obtain it? | Community - TurboTax Support",
-      "link": "https://ttlc.intuit.com/community/fid-7/tid-479659",
-      "snippet": "No text available"
+      "title": "Instructions for Form 1040-NR (2025)",
+      "link": "https://www.irs.gov/instructions/i1040nr",
+      "snippet": "Instructions for Form 1040-NR (2025). U.S. Nonresident Alien Income Tax Return. Section references are to the Internal Revenue Code unless otherwise noted."
     },
     {
       "rank": 3,
-      "title": "2022 - Filing a 1040NR for 2021 as a Non Resident Alien",
-      "link": "https://www.justbreve.com/post/2022-filing-a-1040nr-for-2021-as-a-non-resident-alien",
-      "snippet": "the normal deadline is April 15th 2022 for US based individuals but for non residents of the US, you have an additional 2 months to June 15th ..."
+      "title": "Form 1040-NR guide for nonresident aliens",
+      "link": "https://www.taxesforexpats.com/articles/non-us-citizens/form-1040-nr.html",
+      "snippet": "April 15, 2026 – if you received US wages subject to income tax withholding, or you have an office or place of business in the US. June 15, 2026 ..."
     },
     {
       "rank": 4,
-      "title": "1040-NR to 1040 filing timeline : r/tax",
-      "link": "https://www.reddit.com/r/tax/comments/16ym2lm/1040nr_to_1040_filing_timeline/",
-      "snippet": "1040-NR to 1040 filing timeline. This is to know whether I should file 1040 or 1040-NR for 2022 tax return. the deadline is October 16, 2023."
+      "title": "About Form 1040-NR, U.S. Nonresident Alien Income Tax Return",
+      "link": "https://www.irs.gov/forms-pubs/about-form-1040-nr",
+      "snippet": "You may need to file Form 1040-NR if you: Were a nonresident alien engaged in a trade or business in the United States."
     },
     {
       "rank": 5,
-      "title": "Form 1040-NR is the tax return you are supposed to file as an international student. Most ...",
-      "link": "https://www.instagram.com/reel/DXCueJbAAV1/",
-      "snippet": "File Form 8843 every year — even if you earned $0. Nonresident also means filing a 1040-NR, not a regular 1040, Taxed on worldwide income; ..."
+      "title": "Nonresident Alien Federal Tax Return",
+      "link": "https://vpf.mit.edu/by-topic/tax-filing/nonresident-alien-federal-tax-return",
+      "snippet": "The IRS individual income tax filing deadline (including Form 1040-NR with 8843) is April 15. If April 15 falls on a weekend or holiday (including Patriot's Day ..."
     }
   ],
   "peopleAlsoAsk": [
-    "What if ITR is not filed before 31st July?",
-    "What is a 1040?",
-    "What happens if I haven't paid US taxes as an US expat?",
-    "Does everyone get a $3,000 tax refund?"
+    "What is the due date for non-residents to file their US tax return?",
+    "What is the extended due date for form 1040NR?",
+    "What are the filing requirements for form 1040NR?",
+    "Does a non-resident alien need to file a tax return?"
   ],
-  "relatedKeywords": [],
-  "publishedPostPath": "posts/form-1040-nr-non-resident-alien-taxes-guide.md"
+  "relatedKeywords": [
+    "Form 1040-NR instructions 2025",
+    "Non resident alien tax filing",
+    "Form 1040NR PDF",
+    "Form 1040 nr schedule a",
+    "Schedule OI (Form 1040-NR)"
+  ],
+  "publishedPostPath": "posts/form-1040-nr-non-resident-alien-tax-return-checklist.md"
 }
